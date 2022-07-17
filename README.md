@@ -31,6 +31,9 @@ You see a database.sql, this is a small PostgreSQL database for use in the app
 For used it you need to rename the file databaseExample.ini to database.ini, and fill it with your database information
 This file is in the dir confif_conn
 
+### CORS
+Set your origins in the origin list at the file main.py
+
 
 
 
